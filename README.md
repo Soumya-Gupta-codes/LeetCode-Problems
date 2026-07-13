@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
+| [2326-spiral-matrix-iv](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/2326-spiral-matrix-iv) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -32,4 +33,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
+## Linked List
+|  |
+| ------- |
+| [2326-spiral-matrix-iv](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/2326-spiral-matrix-iv) |
+## Matrix
+|  |
+| ------- |
+| [2326-spiral-matrix-iv](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/2326-spiral-matrix-iv) |
+## Simulation
+|  |
+| ------- |
+| [2326-spiral-matrix-iv](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/2326-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
