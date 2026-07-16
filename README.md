@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0724-find-pivot-index](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [2326-spiral-matrix-iv](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/2326-spiral-matrix-iv) |
@@ -22,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
