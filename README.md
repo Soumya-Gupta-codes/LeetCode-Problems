@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0724-find-pivot-index](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
 | [2326-spiral-matrix-iv](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/2326-spiral-matrix-iv) |
 ## Divide and Conquer
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1672-richest-customer-wealth](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
 | [2326-spiral-matrix-iv](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/2326-spiral-matrix-iv) |
 ## Simulation
 |  |
