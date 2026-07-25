@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0724-find-pivot-index](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0724-find-pivot-index) |
+| [1051-height-checker](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1480-running-sum-of-1d-array](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
 | [2326-spiral-matrix-iv](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/2326-spiral-matrix-iv) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0389-find-the-difference) |
+| [1051-height-checker](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/1051-height-checker) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0389-find-the-difference) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
