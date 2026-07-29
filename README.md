@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1480-running-sum-of-1d-array](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2326-spiral-matrix-iv](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/2326-spiral-matrix-iv) |
 ## Divide and Conquer
 |  |
