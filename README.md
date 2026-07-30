@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0414-third-maximum-number](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0414-third-maximum-number) |
 | [0605-can-place-flowers](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0605-can-place-flowers) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0414-third-maximum-number) |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0389-find-the-difference) |
@@ -93,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Bit Manipulation
 |  |
