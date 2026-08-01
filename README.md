@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0414-third-maximum-number](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [1051-height-checker](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/1051-height-checker) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
 |  |
 | ------- |
