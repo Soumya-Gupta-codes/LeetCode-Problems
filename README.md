@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0055-jump-game) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0344-reverse-string) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0134-gas-station) |
 | [0605-can-place-flowers](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0605-can-place-flowers) |
