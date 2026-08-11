@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0136-single-number) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0283-move-zeroes) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0242-valid-anagram) |
@@ -138,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0134-gas-station) |
 | [0605-can-place-flowers](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0605-can-place-flowers) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
