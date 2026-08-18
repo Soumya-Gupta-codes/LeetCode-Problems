@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0189-rotate-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2326-spiral-matrix-iv](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/2326-spiral-matrix-iv) |
 ## Hash Table
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
+| [0043-multiply-strings](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0344-reverse-string) |
