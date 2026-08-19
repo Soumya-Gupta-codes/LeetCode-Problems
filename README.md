@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1480-running-sum-of-1d-array](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
 ## String
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0389-find-the-difference) |
+| [1386-cinema-seat-allocation](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
 ## Counting Sort
 |  |
 | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0134-gas-station) |
 | [0605-can-place-flowers](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0605-can-place-flowers) |
+| [1386-cinema-seat-allocation](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
 ## Quicksort
 |  |
 | ------- |
