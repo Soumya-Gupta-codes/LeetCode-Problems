@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0859-buddy-strings](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0859-buddy-strings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
 ## String
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0859-buddy-strings](https://github.com/Soumya-Gupta-codes/LeetCode-Problems/tree/master/0859-buddy-strings) |
 ## Trie
 |  |
 | ------- |
